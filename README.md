@@ -115,11 +115,6 @@ https://bit.ly/3dRJkul
 </details>
 
 
-## Vpings:
-
-https://bit.ly/41C2B6P
-
-
 ## VMware Workstation Pro:
 
 <details><summary>Versiones:</summary>
@@ -143,3 +138,10 @@ https://bit.ly/40Ak4ev
 ### VMware Workstation 16 Pro:
 
 https://bit.ly/41CJPfN
+
+</details>
+
+
+## Vpings:
+
+https://bit.ly/41C2B6P
